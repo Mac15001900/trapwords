@@ -343,6 +343,7 @@ Szwajcarski zegarek
 Rondo
 Rondel
 Karabin snajperski
+Konstantynopolitańczykowianeczka
 
 Almukantarat
 Heliomagnetohydrodynamika
